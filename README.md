@@ -49,7 +49,7 @@ Once the required packages are installed, you’ll be ready to run the project.
 
 - [Quick Start](#quick-start)
    
-
+-----
 
  <div align="center">
    
@@ -57,6 +57,7 @@ Once the required packages are installed, you’ll be ready to run the project.
    
 </div>
 
+-----
 
 # Background
 
