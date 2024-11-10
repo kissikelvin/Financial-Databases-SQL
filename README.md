@@ -36,10 +36,12 @@ This will install the following libraries:
 
 If you'd like to manually install any missing libraries, here are the installation commands:
 - **SQLAlchemy**:
+  
   ```bash
   pip install SQLAlchemy
   ```
 - **Voilà** (optional for deploying as a web app):
+  
   ```bash
   conda install -c conda-forge voila
   ```
