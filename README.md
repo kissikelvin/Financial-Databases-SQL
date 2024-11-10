@@ -8,7 +8,7 @@
 
 # Table of Contents
 
-1. [Installation](#installation)
+- [Installation](#installation)
    
 This project is built in a Jupyter Notebook. If you don’t have Jupyter installed, you can follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) to set it up.
 
