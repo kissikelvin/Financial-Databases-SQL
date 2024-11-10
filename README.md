@@ -40,12 +40,11 @@ If you'd like to manually install any missing libraries, here are the installati
   ```bash
   pip install SQLAlchemy
   ```
-- **Voilà** (optional for deploying as a web app):
+- [**Voilà**](https://github.com/voila-dashboards/voila) :
   
   ```bash
   conda install -c conda-forge voila
   ```
-Once the required packages are installed, you’ll be ready to run the project.
 ---
 
    
