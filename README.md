@@ -45,12 +45,11 @@ Once the required packages are installed, you’ll be ready to run the project.
 ---
 
    
-3. [Basic Usage](#basic-usage)
-    1. [Quick Start](#quick-start)
-    3. [Collecting information from the database](#collecting-information-from-the-database)
-    3. [Searching the database extensively](#searching-the-database-extensively)
-    4. [Storing the database at a different location](#storing-the-database-at-a-different-location)
-6. [Contact](#contact)
+- [Basic Usage](#basic-usage)
+
+- [Quick Start](#quick-start)
+   
+- [SourceCode](#SourceCode)
 
 
 # Background
