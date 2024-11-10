@@ -21,23 +21,28 @@
 
 # Project Outline
 
-The project is structured into several key parts:
+The project is organized into several main sections:
 
-Populating Data into SQL Database
+Data Population in SQL Database
 
-We begin by preparing the data. First, we define the tickers that make up the Fintech ETF and populate a SQL database with the relevant market data using the Yahoo Finance API. Next, we add the daily returns to the created SQL database. The functions to perform these tasks are stored in utils.py.
-Analyze a Single Asset in the ETF
+We start by preparing the dataset. This includes defining the tickers that compose the Fintech ETF and populating a SQL database with market data using the Yahoo Finance API. Then, we add daily returns to this database. The functions for these tasks are stored in utils.py.
 
-In this section, we perform individual analysis on a selected stock in the ETF. This includes calculating daily returns, visualizing the stock's performance, and understanding its contribution to the overall ETF.
-Optimize Data Access with Advanced SQL Queries
+Single Asset Analysis in the ETF
 
-Here, we focus on improving the efficiency of data access. By writing additional SQL queries, we can retrieve and process stock data more efficiently, which is crucial for optimizing performance, especially when handling large datasets.
-Analyze the ETF Portfolio
+This section focuses on analyzing an individual stock within the ETF. Here, we calculate daily returns, visualize the stock's performance, and evaluate its contribution to the overall ETF.
 
-This part involves analyzing the ETF as a whole, combining the data of all four stocks. We compute the overall daily returns and provide insights into the performance of the ETF as a portfolio.
-Create a New Database for Equal-Weighted ETF Returns
+Enhanced Data Access with Advanced SQL Queries
 
-In order to preserve the original data, we create a new database to store the daily returns of the ETF, assuming the stocks are equally weighted. This ensures that the original etf.db database remains unaltered while we perform further analysis.
-Deploy the Notebook as a Web Application
+In this part, we optimize data retrieval by writing advanced SQL queries. This improves data access efficiency, which is critical for handling large datasets effectively.
 
-Finally, we use the Voilà library to deploy the Jupyter Notebook as a web application. This step allows users to interact with the analysis through a browser-based interface, enabling real-time exploration of the ETF data and visualizations.
+ETF Portfolio Analysis
+
+We analyze the ETF as a combined portfolio by aggregating data from all four stocks. This includes calculating overall daily returns and generating insights into the ETF's overall performance.
+
+Creating a New Database for Equal-Weighted ETF Returns
+
+To maintain the integrity of the original data, we create a new database to store daily returns for an equally weighted ETF. This approach preserves the original etf.db database for additional analysis.
+
+Notebook Deployment as a Web Application
+
+Finally, we deploy the Jupyter Notebook as a web application using the Voilà library. This enables users to explore ETF data and visualizations interactively through a browser interface.
