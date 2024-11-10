@@ -40,7 +40,7 @@ If you'd like to manually install any missing libraries, here are the installati
   ```bash
   pip install SQLAlchemy
   ```
-- **Voilà**:     [Web App](https://github.com/voila-dashboards/voila)
+- **Voilà**:     [web app](https://github.com/voila-dashboards/voila)
   
   ```bash
   conda install -c conda-forge voila
