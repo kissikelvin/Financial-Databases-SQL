@@ -49,7 +49,7 @@ Once the required packages are installed, you’ll be ready to run the project.
 
 - [Quick Start](#quick-start)
    
-- [SourceCode](#SourceCode)
+- [SourceCode](https://github.com/kelvinkissi/Financial-Databases-SQL/blob/main/etf_analyzer.ipynb)
 
 
 # Background
