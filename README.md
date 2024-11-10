@@ -3,7 +3,6 @@
 
 ![Display](Resources/DBsql.png)
 
-----
 
 # Table of Contents
 
