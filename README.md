@@ -56,7 +56,7 @@ If you'd like to manually install any missing libraries, here are the installati
 
  <div align="center">
    
-   [SourceCode](https://github.com/kelvinkissi/Financial-Databases-SQL/blob/main/etf_analyzer.ipynb)
+   [Source Code](https://github.com/kelvinkissi/Financial-Databases-SQL/blob/main/etf_analyzer.ipynb)
    
 </div>
 
