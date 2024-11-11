@@ -16,7 +16,7 @@ This project is built in Jupyter Notebook. If you don’t have Jupyter installed
 
 You can also install all the necessary libraries by using the provided `requirements.txt` file. To install the dependencies, follow these instructions below:
 
-1. Download the `requirements.txt` file** included in the project repository.
+1. Download the `requirements.txt` file included in the project repository.
 2. Open a terminal and navigate to the project directory where the `requirements.txt` file is located.
 3. Run the following command to install all the required packages below:
 
