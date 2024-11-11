@@ -10,11 +10,11 @@
 
 - [Installation](#installation)
    
-This project is built in a Jupyter Notebook. If you don’t have Jupyter installed, you can follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) to set it up.
+This project is built in Jupyter Notebook. If you don’t have Jupyter installed, you can follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) to set it up.
 
 ### Required Libraries
 
-You can also install all the necessary libraries by using the provided `requirements.txt` file. To install the dependencies, follow these instructions:
+You can also install all the necessary libraries by using the provided `requirements.txt` file. To install the dependencies, follow these instructions below:
 
 1. Download the `requirements.txt` file** included in the project repository.
 2. Open a terminal and navigate to the project directory where the `requirements.txt` file is located.
@@ -62,7 +62,7 @@ If you'd like to manually install any missing libraries, here are the installati
 
 # Background
 
-In this project, we create a financial database and web application to analyze the performance of a hypothetical FinTech Exchange-Traded Fund (ETF). Built with SQL, Python, and the Voilà library, the application focuses on four stocks in the ETF: GDOT (Green Dot Corporation), GS (Goldman Sachs), PYPL (PayPal Holdings), and SQ (Block, formerly Square). Each stock has a dedicated table in the etf.db database, with data sourced from the Yahoo Finance API.
+In this project, we create a financial database and web application to analyze the performance of a hypothetical FinTech Exchange-Traded Fund (ETF). Built with SQL, Python, and the Voilà library, the application focuses on four stocks in the ETF: __GDOT__ (Green Dot Corporation), __GS__ (Goldman Sachs), __PYPL__ (PayPal Holdings), and __SQ__ (Block, formerly Square). Each stock has a dedicated table in the etf.db database, with data sourced from the Yahoo Finance API.
 
 The analysis examines daily returns for each individual stock as well as the overall ETF performance. After completing the analysis, visualizations are deployed as a web application using the Voilà library, which transforms the Jupyter Notebook into an interactive web interface.
 
