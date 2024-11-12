@@ -6,8 +6,12 @@
 
 # Table of Contents
 
+<div align="center">
+   
+   [Installation](#installation)
+   
+</div>
 
-- [Installation](#installation)
    
 This project is built in Jupyter Notebook. If you don’t have Jupyter installed, you can follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) to set it up.
 
@@ -52,8 +56,12 @@ In this project, we create a financial database and web application to analyze t
 The analysis examines daily returns for each individual stock as well as the overall ETF performance. After completing the analysis, visualizations are deployed as a web application using the Voilà library, which transforms the Jupyter Notebook into an interactive web interface.
 
 
+<div align="center">
    
-- [Basic Usage](#basic-usage)
+  [Basic Usage](#basic-usage)
+   
+</div>
+   
 
   ---
 
