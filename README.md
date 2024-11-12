@@ -65,14 +65,14 @@ The analysis examines daily returns for each individual stock as well as the ove
 ---
 ## PYPL Cumulative Returns
 
-![Display](Resources/PYPL_CumulativeReturn.png)
+![Display](Resources/PYPL_Cumulative.png)
 
 
 ---
 
 ## ETF Cumulative Returns
 
-![Display](Resources/ETF_CumulativeReturn.png)
+![Display](Resources/ETF_Cumulative.png)
 
 
 ---
