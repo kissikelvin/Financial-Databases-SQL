@@ -37,8 +37,8 @@ This will install the following libraries in Jupyter:
 
 If you'd like to manually install any missing libraries, here are the installation commands:
 
-- [**SQLAlchemy**](https://github.com/voila-dashboards/voila):
-  https://www.sqlalchemy.org/
+- [**SQLAlchemy**](https://www.sqlalchemy.org/):
+   
   ```bash
   pip install SQLAlchemy
   ```
