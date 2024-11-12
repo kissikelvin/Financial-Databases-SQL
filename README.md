@@ -55,6 +55,29 @@ The analysis examines daily returns for each individual stock as well as the ove
    
 - [Basic Usage](#basic-usage)
 
+  ---
+
+## PPYL Retuns 
+
+![Display](Resources/PPYL_Return.png)
+
+
+---
+## PYPL Cumulative Returns
+
+![Display](Resources/PYPL_CumulativeReturn.png)
+
+
+---
+
+## ETF Cumulative Returns
+
+![Display](Resources/ETF_CumulativeReturn.png)
+
+
+---
+
+
 - [Quick Start](#quick-start)
    
 -----
