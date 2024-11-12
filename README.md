@@ -70,12 +70,14 @@ The analysis examines daily returns for each individual stock as well as the ove
 
 ![Display](Resources/PPYL_Return.png)
 
+Used hvPlot to create an interactive visualization for the __PYPL__ daily returns and reflected the “time” column of the DataFrame on the x-axis.
 
 ---
 ## PYPL Cumulative Returns
 
 ![Display](Resources/PYPL_Cumulative.png)
 
+Used hvPlot to create an interactive visualization for the __PYPL__ cumulative returns. Reflect the “time” column of the DataFrame on the x-axis.
 
 ---
 
@@ -83,6 +85,7 @@ The analysis examines daily returns for each individual stock as well as the ove
 
 ![Display](Resources/ETF_Cumulative.png)
 
+Used hvPlot to create an interactive line plot that visualizes the cumulative return values of the __ETF__ portfolio. Reflect the “time” column of the DataFrame on the x-axis.
 
 ---
 
