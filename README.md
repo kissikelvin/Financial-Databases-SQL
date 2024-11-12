@@ -90,10 +90,6 @@ Used hvPlot to create an interactive line plot that visualizes the cumulative re
 ---
 
 
-- [Quick Start](#quick-start)
-   
------
-
  <div align="center">
    
    [Source Code](https://github.com/kelvinkissi/Financial-Databases-SQL/blob/main/etf_analyzer.ipynb)
