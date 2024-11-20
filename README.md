@@ -3,7 +3,7 @@
 
 ![Display](Resources/DBsql.png)
 
-image from [source](https://www.youtube.com/watch?v=GIO7hWAVRzU)
+_image from_ [source](https://www.youtube.com/watch?v=GIO7hWAVRzU)
 
 # Table of Contents
 
