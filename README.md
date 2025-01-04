@@ -1,5 +1,7 @@
 # Financial_Databases_SQL
 
+*by KELVIN KISSI*
+
 
 ![Display](Resources/DBsql.png)
 
@@ -55,7 +57,7 @@ If you'd like to manually install any missing libraries, here are the installati
 
 In this project, we create a financial database and web application to analyze the performance of a hypothetical FinTech Exchange-Traded Fund (ETF). Built with SQL, Python, and the Voilà library, the application focuses on four stocks in the ETF: __GDOT__ (Green Dot Corporation), __GS__ (Goldman Sachs), __PYPL__ (PayPal Holdings), and __SQ__ (Block, formerly Square). Each stock has a dedicated table in the etf.db database, with data sourced from the Yahoo Finance API.
 
-The analysis examines daily returns for each individual stock specifically focuing on __PYPL__ as well as the overall ETF performance. After completing the analysis, visualizations are deployed as a web application using the Voilà library, which transforms the Jupyter Notebook into an interactive web interface.
+The analysis examines daily returns for each individual stock specifically focusing on __PYPL__ as well as the overall ETF performance. After completing the analysis, visualizations are deployed as a web application using the Voilà library, which transforms the Jupyter Notebook into an interactive web interface.
 
 
 <div align="center">
